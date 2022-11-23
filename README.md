@@ -5,10 +5,13 @@
 
 <div align="center">
 <p> 🤸🏽‍♂️ About Me 🤸🏽‍♂️ </p>
-<a href="https://velog.io/@ho2yahh" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
-	<a href="https://www.notion.so/b79cb7a85b3040fe96036795ed2e1cec" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion &logoColor=white" /></a>
+Tech-blog: <a href="https://velog.io/@ho2yahh" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
+	<br>
+	portfolio: <a href="https://www.notion.so/b79cb7a85b3040fe96036795ed2e1cec" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion &logoColor=white" /></a> <br>
+
   <br/>
-  안녕하세요. 프론트엔드 개발자 이호준입니다.
+  안녕하세요😎<br>
+	프론트엔드 개발자 이호준입니다.
 <br/>
 5년간 기획자, 마케터 경험을 통해 얻은 소통으로 쓸모있는 코딩을 합니다.
 <br/>
