@@ -7,7 +7,7 @@
 <p> 🤸🏽‍♂️ About Me 🤸🏽‍♂️ </p>
 Tech-blog: <a href="https://velog.io/@ho2yahh" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 	<br>
-	portfolio: <a href="https://www.notion.so/b79cb7a85b3040fe96036795ed2e1cec" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion &logoColor=white" /></a> <br>
+	portfolio: <a href="https://www.notion.so/b79cb7a85b3040fe96036795ed2e1cec" target="_blank"><img src="https://img.shields.io/badge/Notion-181717?style=flat&logo=Notion&logoColor=white" /></a> <br>
 
   <br/>
   안녕하세요😎<br>
@@ -22,24 +22,34 @@ Tech-blog: <a href="https://velog.io/@ho2yahh" target="_blank"><img src="https:/
 
 <div align="center">
 <p>👩‍💻 Tech Stack 👩‍💻 </p>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/>
-	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-  	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
-	<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=Node.js&logoColor=white" />
-	<Br/>
-	<img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=Svelte&logoColor=white" />
+ 	<img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=Svelte&logoColor=white" />
 		<img src="https://img.shields.io/badge/SvelteKIT-FF3E00?style=flat&logo=Svelte&logoColor=white" />
 	<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=Supabase&logoColor=white" />
 	<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white" />
+ <Br/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/>
+	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
+  		<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+	<Br/>
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+ <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
+	<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=Node.js&logoColor=white" />
+ <Br/>
+
 	
 </div>
 <br/>
 <div align="center">
 <p> Library & tool </p>
 	<img src="https://img.shields.io/badge/Vercel-010101?style=flat&logo=Vercel&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Koyeb-121212?style=flat&logo=koyeb&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white"/>
+	<Br/>
+	<img src="https://img.shields.io/badge/Strapi-2F2E8B?style=flat&logo=strapi&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 	<Br/>
 <img src="https://img.shields.io/badge/Socket.io-000000?style=flat&logo=Socket.io&logoColor=white"/>
 	<img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white" />
