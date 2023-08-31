@@ -70,9 +70,7 @@ Tech-blog: <a href="https://velog.io/@ho2yahh" target="_blank"><img src="https:/
 <p>💻 My GitLog 💻 </p>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hozunlee&layout=compact">
-<br>
-AI&데이터분석 관련 팀 프로젝트 진행 후 GitLab -> gitHub 로 이사오면서<br> jupyter notebook 코드가 많아졌습니다.
-<br>
+
 주 언어는 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/> 입니다.
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=hozunlee&show_icons=true">
