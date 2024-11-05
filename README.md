@@ -5,7 +5,7 @@
 
 <div align="center">
 <p> 🤸🏽‍♂️ About Me 🤸🏽‍♂️ </p>
-Tech-blog: <a href="https://velog.io/@ho2yahh" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
+Tech-blog: <a href="https://hololog.dev/" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 	<br>
 	portfolio: <a href="https://www.notion.so/b79cb7a85b3040fe96036795ed2e1cec" target="_blank"><img src="https://img.shields.io/badge/Notion-181717?style=flat&logo=Notion&logoColor=white" /></a> <br>
 
